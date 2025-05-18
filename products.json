@@ -1,0 +1,314 @@
+[
+  {
+    "_id": "682a12d65ca2ec2e92912cd4",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "682a12d65ca2ec2e92912cd5",
+    "name": "รถเก๋งToyota",
+    "price": 800000.0,
+    "emoji": "🚗",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "682a12d65ca2ec2e92912cd6",
+    "name": "รถเก๋งHonda",
+    "price": 750000.0,
+    "emoji": "🚗",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "682a12d65ca2ec2e92912cd7",
+    "name": "รถกระบะToyota",
+    "price": 950000.0,
+    "emoji": "🚚",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "682a12d75ca2ec2e92912cd8",
+    "name": "รถกระบะIsuzu",
+    "price": 900000.0,
+    "emoji": "🚚",
+    "country": "1",
+    "category": "car"
+  },
+  {
+    "_id": "682a12d75ca2ec2e92912cd9",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "1",
+    "category": "fashion"
+  },
+  {
+    "_id": "682a12d75ca2ec2e92912cda",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "1",
+    "category": "item"
+  },
+  {
+    "_id": "682a12d75ca2ec2e92912cdb",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "1",
+    "category": "money"
+  },
+  {
+    "_id": "682a12d75ca2ec2e92912cdc",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "1",
+    "category": "rentcar"
+  },
+  {
+    "_id": "682a12d75ca2ec2e92912cdd",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "1",
+    "category": "story"
+  },
+  {
+    "_id": "682a12d85ca2ec2e92912cde",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "1",
+    "category": "weapon"
+  },
+  {
+    "_id": "682a12d85ca2ec2e92912cdf",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "2",
+    "category": "car"
+  },
+  {
+    "_id": "682a12d85ca2ec2e92912ce0",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "2",
+    "category": "fashion"
+  },
+  {
+    "_id": "682a12d85ca2ec2e92912ce1",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "2",
+    "category": "item"
+  },
+  {
+    "_id": "682a12d85ca2ec2e92912ce2",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "2",
+    "category": "money"
+  },
+  {
+    "_id": "682a12d85ca2ec2e92912ce3",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "2",
+    "category": "rentcar"
+  },
+  {
+    "_id": "682a12d95ca2ec2e92912ce4",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "2",
+    "category": "story"
+  },
+  {
+    "_id": "682a12d95ca2ec2e92912ce5",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "2",
+    "category": "weapon"
+  },
+  {
+    "_id": "682a12d95ca2ec2e92912ce6",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "3",
+    "category": "car"
+  },
+  {
+    "_id": "682a12d95ca2ec2e92912ce7",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "3",
+    "category": "fashion"
+  },
+  {
+    "_id": "682a12d95ca2ec2e92912ce8",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "3",
+    "category": "item"
+  },
+  {
+    "_id": "682a12d95ca2ec2e92912ce9",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "3",
+    "category": "money"
+  },
+  {
+    "_id": "682a12da5ca2ec2e92912cea",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "3",
+    "category": "rentcar"
+  },
+  {
+    "_id": "682a12da5ca2ec2e92912ceb",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "3",
+    "category": "story"
+  },
+  {
+    "_id": "682a12da5ca2ec2e92912cec",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "3",
+    "category": "weapon"
+  },
+  {
+    "_id": "682a12da5ca2ec2e92912ced",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "4",
+    "category": "car"
+  },
+  {
+    "_id": "682a12da5ca2ec2e92912cee",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "4",
+    "category": "fashion"
+  },
+  {
+    "_id": "682a12da5ca2ec2e92912cef",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "4",
+    "category": "item"
+  },
+  {
+    "_id": "682a12db5ca2ec2e92912cf0",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "4",
+    "category": "money"
+  },
+  {
+    "_id": "682a12db5ca2ec2e92912cf1",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "4",
+    "category": "rentcar"
+  },
+  {
+    "_id": "682a12db5ca2ec2e92912cf2",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "4",
+    "category": "story"
+  },
+  {
+    "_id": "682a12db5ca2ec2e92912cf3",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "4",
+    "category": "weapon"
+  },
+  {
+    "_id": "682a12db5ca2ec2e92912cf4",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "5",
+    "category": "car"
+  },
+  {
+    "_id": "682a12db5ca2ec2e92912cf5",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "5",
+    "category": "fashion"
+  },
+  {
+    "_id": "682a12dc5ca2ec2e92912cf6",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "5",
+    "category": "item"
+  },
+  {
+    "_id": "682a12dc5ca2ec2e92912cf7",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "5",
+    "category": "money"
+  },
+  {
+    "_id": "682a12dc5ca2ec2e92912cf8",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "5",
+    "category": "rentcar"
+  },
+  {
+    "_id": "682a12dc5ca2ec2e92912cf9",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "5",
+    "category": "story"
+  },
+  {
+    "_id": "682a12dc5ca2ec2e92912cfa",
+    "name": "ไม่มีสินค้า",
+    "price": 0,
+    "emoji": "❌",
+    "country": "5",
+    "category": "weapon"
+  }
+]
